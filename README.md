@@ -1,0 +1,3 @@
+# University Heights, OH - City Charter
+
+This repositiory contains the text of the City Charter for University Heights as of September 22nd, 2021. The text was exported from the American Legal Publishing Code Library from this [link](https://codelibrary.amlegal.com/codes/universityhts/latest/unhoh_oh/0-0-0-51553). Pull requests will be created to demonstrate potential changes to the charter. Merges to Mainwill only occur if the actual Charter has been updated. Changes to the Charter require the passage of an ordinance by City Council and the passing of a ballot measure.
