@@ -184,7 +184,7 @@ organize. At such organization meeting the Council shall elect by a majority
 vote one Councilperson, Vice-Mayor, and Councilpersons members of boards and
 commissions required by this Charter or by ordinance, each to serve until the
 next organization meeting unless they shall cease in the meantime to be a
-councilman.
+councilperson.
 (11-5-1957)
    SECTION 3. Vacancy.  Any vacancy in the Council, except as otherwise
 provided in this Charter, shall be filled by appointment by a majority vote of
@@ -396,7 +396,7 @@ thereupon order and fix a day for holding a recall election, not less than
 thirty (30) nor more than forty (40) days from the date of the Clerk's
 certificate of sufficiency. At such recall election the name of the officer
 whose removal is sought shall be placed on the ballot as a candidate to succeed
-himself, unless they otherwise requests in writing at least twenty (20) days
+themself, unless they otherwise requests in writing at least twenty (20) days
 prior thereto, and the names of such other candidates for the same office shall
 be placed on the ballot as shall have been nominated in accordance with Article
 2 Section 1 of this Charter at least twenty (20) days prior to such recall
@@ -427,7 +427,7 @@ commencing on the first day of January next after such election, and shall
 serve until their successor is elected and qualified.
    SECTION 3. Vacancy. When the Mayor is absent and inaccessible, or is unable
 for any cause to perform their duties, the Vice Mayor shall be acting Mayor, but
-shall not thereby cease to be a councilman. In case of death, resignation or
+shall not thereby cease to be a councilperson. In case of death, resignation or
 removal, other than by recall election, of the Mayor or their ceasing to qualify
 for the office, the Vice-Mayor shall vacate their office of councilperson and shall
 become Mayor to serve the unexpired term or until a successor for the unexpired
@@ -438,7 +438,7 @@ that:
 the unexpired term; and
    2.   The vacancy occurs more than seventy-five (75) days prior to such
 election.
-   A Vice-Mayor, who has become Mayor, may be a candidate to succeed himself.
+   A Vice-Mayor, who has become Mayor, may be a candidate to succeed themself.
 (11-6-1979)
    SECTION 4. General Powers and Duties.
    A.   Judicial. The Mayor shall have all the judicial powers granted by the
@@ -662,7 +662,7 @@ the compensation of such officers shall not thereafter be changed for such term
 or any part thereof; except that for each absence of the councilperson from a
 regular meeting of the Council, unless authorized by the affirmative vote of at
 least four other members thereof, there shall be deducted a sum equal to two
-per cent (2%) of the annual salary of such Councilman. Persons filling
+per cent (2%) of the annual salary of such Councilperson. Persons filling
 vacancies for the unexpired terms of elective officers shall receive the
 compensation theretofore fixed for such elective officers. The compensation of
 other officers and employees may be fixed and changed at any time in the
